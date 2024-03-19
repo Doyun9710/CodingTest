@@ -17,6 +17,9 @@ while(N != 1):
 print(cnt)
 
 
+
+
+
 ''' input
 25 5
 27 5
